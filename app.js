@@ -20,20 +20,20 @@
 			  	$container:$('.catSlides'),
 			  	imagesObjectArray:[
 			  		{
-			  			full:'images/803864926_1375572583.jpg',
-			  			thumb:'images/803864926_1375572583-thmb.png'
+			  			full:'../gallerizer/images/803864926_1375572583.jpg',
+			  			thumb:'../gallerizer/images/803864926_1375572583-thmb.png'
 			  		},
 			  		{
-			  			full:'images/cats-animals-kittens-background-us.jpg',
-			  			thumb:'images/cats-animals-kittens-background-us-thmb.png'
+			  			full:'../gallerizer/images/cats-animals-kittens-background-us.jpg',
+			  			thumb:'../gallerizer/images/cats-animals-kittens-background-us-thmb.png'
 			  		},
 			  		{
-			  			full:'images/Cute-Kitten-kittens-16122946-1280-800.jpg',
-			  			thumb:'images/Cute-Kitten-kittens-16122946-1280-800-thmb.png'
+			  			full:'../gallerizer/images/Cute-Kitten-kittens-16122946-1280-800.jpg',
+			  			thumb:'../gallerizer/images/Cute-Kitten-kittens-16122946-1280-800-thmb.png'
 			  		},
 			  		{
-			  			full:'images/Persian_Kittens.jpg',
-			  			thumb:'images/Persian_Kittens-thmb.png'
+			  			full:'../gallerizer/images/Persian_Kittens.jpg',
+			  			thumb:'../gallerizer/images/Persian_Kittens-thmb.png'
 			  		}
 			  	]
 			});
